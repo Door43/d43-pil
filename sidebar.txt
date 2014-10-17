@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pil:home|Door43 (pil)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pil|d43-pil repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pil/archive/master.zip|d43-pil.zip]]
+
+**Recent Changes**
+{{changes>ns = pil}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pil|Ethnologue data]]
+
